@@ -1,5 +1,5 @@
 # Troll Repellent
-A micro-service to automatically comment on and close issues opened by troublesome users.
+A micro-service to automatically comment on and close issues opened by bothersome users.
 
 ## Usage
 Troll repellent is tiny Sinatra app designed to run on services like Heroku. You'll need to do two things, configure the server and configure the webhook on GitHub.
