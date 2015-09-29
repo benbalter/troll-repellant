@@ -1,6 +1,10 @@
 # Troll Repellent
 A micro-service to automatically comment on and close issues opened by bothersome users.
 
+## What it does
+
+Any time a blacklisted GitHub user opens an issue or pull request, *Troll Repellant* automatically closes the issue and comments with a polite, but firm message of your choosing.
+
 ## Usage
 Troll repellent is tiny Sinatra app designed to run on services like Heroku. You'll need to do two things, configure the server and configure the webhook on GitHub.
 
