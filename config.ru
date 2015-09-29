@@ -1,2 +1,2 @@
-require './troll_repellant'
+require './lib/troll_repellant'
 run TrollRepellant
